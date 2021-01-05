@@ -12,6 +12,13 @@ a {
   color: #858B92;
 }
 
+.photo {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 1rem;
+}
+
 .header {
   margin: 3% 0;
   text-align: center;
@@ -73,7 +80,7 @@ a {
 
 .lab, .map {
   display: inline-block;
-  width: 300pt;
+  width: 200pt;
   height: 200pt;
   margin: 10pt;
   text-align: center;
